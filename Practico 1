@@ -1,7 +1,32 @@
 # BIOINF-1
 Daniel León Guajardo
 
-### Trabajo Bioinformatica práctico 1
-·TRABAJO
-#TRABAI 
-@ GK
+# Trabajo Bioinformatica práctico 1
+### Parte 1: Enfermedades genéticas y genes.
+ Enfermedad: La distrofia muscular de Duchenne o distrofia muscular progresiva (DMD)
+La distrofia muscular de Duchenne (DMD), es una enfermedad hereditaria de tipo recesivo ligado al cromosoma X, que generalmente se manifiesta en hombres y rara vez en mujeres, que normalmente son las portadoras de esta enfermedad. Es causada por mutaciones en el gen de la distrofina conllevando a células musculares degenerativas.
+¿Cuál(es) gene(s) han sido relacionados con esta enfermedad?
+DMD
+¿Tiene nombres alternativos el gen?
+ 
+Sí, estos se pueden encontrar como : BMD; CMD3B; MRX85; DXS142; DXS164; DXS206; DXS230; DXS239; DXS268; DXS269; DXS270; DXS272
+ 
+¿En qué cromosoma está? ¿Cuántos exones tiene? ¿Cuántas isoformas de transcritos?  
+ 
+En el cromosoma Xp21.2-p21.1
+Posee 89 exones
+Según NG 012232.1, se encuentran 17 isoformas revisadas, además a través de ensamblaje primario, según GRCh38.p7 existen 13 isoformas.
+ 
+¿Qué tipo de proteina es codificada por este gen? ¿Cuál es su número EC? 
+ 
+Proteína Distrofina, - 
+ 
+¿Qué genes están inmediatamente río arriba/abajo?
+Según la orientación de mi gen (3->5), río arriba encontraremos el gen  LOC646506 y rio abajo el gen FTHL17.
+
+¿Cuál es la longitud de tu gen?
+ 
+ El gen posee un rango genómico apróximado de 2,9Mpb según National Center for Biotechnology Information (ncbi), aunque en la página Uniprot se informa que es de 2,4 Mpb.
+ 
+¿Cuántas variantes de tu gen hay descritas y en qué posiciones?
+ 
