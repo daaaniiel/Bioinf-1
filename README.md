@@ -1,4 +1,5 @@
 # Bioinf-1
+Daniel León Guajardo
 
 # Trabajo Bioinformática practico 01
 ## Parte 1: Enfermedades genéticas y genes
@@ -50,14 +51,22 @@ _El numero de identificación de mi gen es el 	hsa.1756.
  
  4. #### En general, cada unidad dentro de una base de datos tiene un número o código de identificación único. De esta forma, uno puede obtener exactamente lo que quiere dentro de un oceano de otras cosas ¿En qué otras bases de datos está tu gen presente y cuáles son sus números de acceso?
  _El gen DMD es posible encontrarlo en otras bases de datos, las cuales poseen un código de acceso diferente que pueden ser encontradas como: 
-NCBI-GeneID:1756
-NCBI-ProteinID:NP_003997
-OMIM:300377
-HGNC:2928
-Ensembl:ENSG00000198947
-Vega: OTTHUMG00000021336
-Pharos:P11532(Tbio)
-UniProt:P11532
+
+_NCBI-GeneID:1756
+
+_NCBI-ProteinID:NP_003997
+
+_OMIM:300377
+
+_HGNC:2928
+
+_Ensembl:ENSG00000198947
+
+_Vega: OTTHUMG00000021336
+
+_Pharos:P11532(Tbio)
+
+_UniProt:P11532
  
 5. #### ¿En qué otras rutas metabólicas está involucrado tu gen?
 _Cardiomiopatía Arritmogénica del ventrículo izquierdo (ARVC).
@@ -188,4 +197,34 @@ end;
 
 ## PARTE 4: Buscando artículos científicos en línea
 confirmación de ncbi y google scholar.
+
+![BIOI1](BIOI1.png)
+
+
+## Parte 4: Buscando Artículos cientificos en linea.
+
+### > Busca Human Microbiome (puedes buscar cualquier otro término).Luego usa comillas para realizar tu búsqueda "Human Microbiome"
+ 1. #### ¿Son los resultados idénticos o no?
+_No. Lo realicé con human microbiome y síndrome de down, además con cáncer de mama.
+También puedes usar * para representar una palabra que falta, e.g., "Human Microbiome *"
+
+2. #### ¿En qué cambiaron los resultados de la búsqueda?
+_En que al buscar lo que quiero, me agrega la palabra siguiente en cada uno de los resultados, en el caso de las comillas, ocurre lo mismo, pero de manera màs restringida.
+
+### > También puedes condicionar tus búsquedas a rangos de números como precios, años, etc. Prueba con 14 inch...17 inch laptops en google.com
+	¿Qué encuentras en los resultados? Prueba sin el rango también
+_No se logra resultados.
+
+### > Para buscar artículos científicos también es útil restringir los resultados de búsqueda a tipos de archivo. Prueba con "human microbiome" filetype:pdf
+3. #### Describe tus resultados
+_Los resultados que me arroja google scholar a la hora de restringir resultados con “filetype:pdf” son resultados con la posibilidad de descargar el pdf (la gran mayoría), cuando no lo restrinjo simplemente me arroja un total de resultados azaroso (en pdf, html, etc).
+
+### > Otro truco útil es usar signos - y +. Por ejemplo trata buscar "PCR amplification" +temperature, y luego "PCR amplification" -temperature.
+	
+4. #### ¿En qué cambian los resultados de la búsqueda?
+_Los resultados varían en que, si busco “PCR Amplification +temperature”, el buscador tendrá en cuenta buscar la palabra añadida, por otra parte, el signo - restringe la búsqueda, y me entrega resultados sin la palabra que acompañe el signo -, este caso “-temperature”, por lo tanto, resultados serían sin la temperatura.
+
+Finalmente, prueba los operadores Boolean que representan opciones de inclusión. Por ejemplo, trata con Soil OR Human pathogens y luego trata con Soil AND Human pathogens
+	De nuevo, ¿en qué cambian los resultados de la búsqueda?
+
 
