@@ -196,10 +196,10 @@ options deftype=unord;
 end;
 
 ## PARTE 4: Buscando artículos científicos en línea
-confirmación de ncbi y google scholar.
+Confirmación de suscripción en ncbi y nature.
 
-![BIOI1](BIOI1.png)
-
+![BIOI1.1](BIOI1.1.png)
+![BIOI2](BIOI2.png)
 
 ## Parte 4: Buscando Artículos cientificos en linea.
 
