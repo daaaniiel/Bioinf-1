@@ -199,7 +199,7 @@ end;
 Confirmación de suscripción en ncbi y nature.
 
 ![BIOI1.1](BIOI1.1.png)
-![BIOI2](BIOI2.png)
+![BIOI1.2](BIOI2.jpg)
 
 ## Parte 4: Buscando Artículos cientificos en linea.
 
@@ -224,7 +224,5 @@ _Los resultados que me arroja google scholar a la hora de restringir resultados 
 4. #### ¿En qué cambian los resultados de la búsqueda?
 _Los resultados varían en que, si busco “PCR Amplification +temperature”, el buscador tendrá en cuenta buscar la palabra añadida, por otra parte, el signo - restringe la búsqueda, y me entrega resultados sin la palabra que acompañe el signo -, este caso “-temperature”, por lo tanto, resultados serían sin la temperatura.
 
-Finalmente, prueba los operadores Boolean que representan opciones de inclusión. Por ejemplo, trata con Soil OR Human pathogens y luego trata con Soil AND Human pathogens
-	De nuevo, ¿en qué cambian los resultados de la búsqueda?
 
 
